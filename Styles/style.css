@@ -1,0 +1,32 @@
+
+div {
+  background: yellow;
+}
+
+.big {
+  font-size: 60px;
+}
+
+.inverse {
+  color: white;
+  background: black;
+}
+
+.big,
+.inverse {
+  color: white;
+  background: black;
+}
+
+[data-title="greeting"] {
+  background: red;
+}
+
+[data-title="age"] {
+  background: green;
+}
+
+[data-title="location"] {
+  color: purple;
+  font-size: 100px;
+}
