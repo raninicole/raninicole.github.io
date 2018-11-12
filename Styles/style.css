@@ -1,16 +1,12 @@
 
 div {
-  background: yellow;
+  background: yellow
 }
 
 .big {
   font-size: 60px;
 }
 
-.inverse {
-  color: white;
-  background: black;
-}
 
 .big,
 .inverse {
@@ -22,11 +18,12 @@ div {
   background: red;
 }
 
-[data-title="age"] {
+
+[age] {
   background: green;
 }
 
-[data-title="location"] {
+[location] {
   color: purple;
   font-size: 100px;
 }
